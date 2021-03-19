@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages *Brady*
+## Welcome to GitHub Pages *Brady Guy*
 
 You can use the [editor on GitHub](https://github.com/bradyguy/brady/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
