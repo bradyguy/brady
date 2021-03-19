@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages *Brady Guy Chambers*
+## My Journal - Developing a Xamarin Forms App*
 
 You can use the [editor on GitHub](https://github.com/bradyguy/brady/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
